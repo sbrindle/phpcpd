@@ -1,4 +1,4 @@
-**This project is no longer maintained and its repository is only kept for archival purposes.**
+**This project is a fixed drop-in replacement for [sebastianbergmann/phpcpd](https://github.com/sebastianbergmann/phpcpd)**
 
 # PHP Copy/Paste Detector (PHPCPD)
 
